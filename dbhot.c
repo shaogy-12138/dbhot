@@ -10,8 +10,11 @@
 void func1(){
     retur;
 }
-
+void func3(){
+    return;
+}
 int main(){
     func1();
+    func3();
     return 0;
 }
